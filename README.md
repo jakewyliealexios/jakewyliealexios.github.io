@@ -1,2 +1,2 @@
 # jakewyliealexios.github.io
-Getting started exercise
+Resume Application Make a Website Exercise
